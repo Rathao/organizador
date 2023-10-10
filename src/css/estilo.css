@@ -1,0 +1,94 @@
+.menu {
+	margin-bottom: 25px;
+}
+
+.app {
+	margin-top: 25px;
+}
+
+.pagina {
+	border:solid 1px #DFDFDF;
+	padding:25px !important;
+}
+
+li.list-group-item.active {
+	background-color: #fff;
+	border-color: #009933;
+    border-left:solid 10px #009933;
+}
+
+li a {
+	color: #212529;
+}
+
+li a:hover {
+	text-decoration: none;
+}
+
+h4 {
+	color: #009933 !important;
+}
+h1 {
+	color: #009933 !important;
+}
+h2 {
+	color: #009933 !important;
+}
+.card-login {	
+	padding: 30px 0 0 0;
+	width: 350px;
+	margin: 0 auto;
+	
+}
+.card-header.login {
+	background-color: #fff;
+	border-color: #009933;
+    border-left:solid 10px #009933;
+}
+.btn.botao {
+	background-color: #fff;
+	border-color: #009933;
+    border-left:solid 10px #009933;
+}
+.menu-principal{
+	align-items: center;
+	float: inline-end;
+	display:grid;
+	background-color: #009933;
+}
+
+.card-text {
+    text-indent: 3ch;
+    margin: 0;
+    padding: 20px;
+}
+
+.card-img-top {
+    width: 300px;
+}
+
+.texto-de-conteudo {
+    align-self: center;
+    padding: 35px;
+}
+.redesociais {   
+    width: 40px;
+    padding-left: 10px;
+}
+footer {
+    position: relative;
+    margin-top: 25px;
+    border-top: 1px solid green;
+    border-left: 10px solid green;
+}
+header {
+    border-bottom: 1px solid green;
+    border-left: 10px solid green;	   
+}
+.nav-link:hover {
+	color: #009933;
+}
+
+
+
+
