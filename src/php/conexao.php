@@ -20,7 +20,7 @@ class Conexao {
 
 
 		} catch (PDOException $e) {
-			echo '<p>'.$e->getMessege().'</p>';
+			echo '<p> Erro ao tentar conectar com o banco de dados: '.$e->getMessage().'</p>';
 		}
 	}
 }
